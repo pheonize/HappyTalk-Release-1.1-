@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="image_array">
+        <item>@drawable/conversation</item>
+        <item>@drawable/thing</item>
+        <item>@drawable/place</item>
+        <item>@drawable/help</item>
+        <item>@drawable/logistic</item>
+        <!--<item>@drawable/cate_empty</item>-->
+        <item>@drawable/favorite</item>
+    </string-array>
+    <string-array name="string_array">
+        <item>Basic Conversation </item>
+        <item>I would like to... </item>
+        <item>Where is the...  </item>
+        <item>Assistance/Emergency  </item>
+        <item>Logistics  </item>
+        <!--<item> </item>-->
+        <item>Favorite  </item>
+    </string-array>
+
+
+</resources>
+

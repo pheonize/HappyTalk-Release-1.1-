@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceScreen
+        android:key="language"
+        android:title="@string/language">
+    <PreferenceCategory android:title="@string/language">
+        <ListPreference
+            android:defaultValue="ENG"
+            android:entries="@array/lang_names"
+            android:entryValues="@array/lang_val"
+            android:key="langPref"
+            android:summary="Choose your language"
+            android:title="Language"/>
+
+    </PreferenceCategory>
+    </PreferenceScreen>
+
+    <PreferenceScreen
+       android:key="About "
+       android:title="@string/about">
+        <PreferenceCategory
+            android:title="@string/about"
+            android:layout="@layout/about">
+
+
+        </PreferenceCategory>
+        </PreferenceScreen>
+    <PreferenceScreen
+        android:key="About Thai Health"
+        android:title="@string/aboutSSS">
+        <PreferenceCategory
+            android:title="@string/aboutSSS"
+            android:layout="@layout/about2"
+            ></PreferenceCategory>
+
+
+
+
+                <!--android:layout="@layout/about">-->
+
+
+
+
+
+
+
+
+
+
+
+            <!--<intent android:action="android.intent.action.VIEW"-->
+                <!--android:targetClass="@string/about"></intent>-->
+
+
+
+
+
+
+
+        
+        </PreferenceScreen>
+</PreferenceScreen>

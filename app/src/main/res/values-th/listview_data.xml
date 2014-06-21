@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="image_array">
+        <item>@drawable/conversation</item>
+        <item>@drawable/thing</item>
+        <item>@drawable/place</item>
+        <item>@drawable/help</item>
+        <item>@drawable/logistic</item>
+        <!--<item>@drawable/cate_empty</item>-->
+        <item>@drawable/favorite</item>
+    </string-array>
+    <string-array name="string_array">
+        <item>คำสนทนาทั่วไป</item>
+        <item>ต้องการสิ่งของ</item>
+        <item>สอบถามสถานที่ต่างๆ</item>
+        <item>ขอความช่วยเหลือ</item>
+        <item>โลจิสติกส์</item>
+        <!--<item> </item>-->
+        <item>รายการโปรด</item>
+    </string-array>
+
+
+</resources>
+

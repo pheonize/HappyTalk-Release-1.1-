@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="flag_array">
+        <item>@drawable/brunei_flag</item>
+        <item>@drawable/cambodia_flag</item>
+        <item>@drawable/china_flag</item>
+        <item>@drawable/indonesia_flag</item>
+        <item>@drawable/laos_flag</item>
+        <item>@drawable/malaysia</item>
+        <item>@drawable/myanmar_flag</item>
+        <item>@drawable/philippines_flag</item>
+        <item>@drawable/singapore_flag</item>
+        <item>@drawable/thailand_flag</item>
+        <item>@drawable/vietnam_flag</item>
+
+    </string-array>
+    <string-array name="text_array">
+        <item>บรูไน</item>
+        <item>กัมพูชา</item>
+        <item>จีน</item>
+        <item>อินโดนีเซีย</item>
+        <item>ลาว</item>
+        <item>มาเลเซีย</item>
+        <item>พม่า</item>
+        <item>ฟิลิปปินส์</item>
+        <item>สิงคโปร์</item>
+        <item>ไทย</item>
+        <item>เวียดนาม</item>
+    </string-array>
+</resources>

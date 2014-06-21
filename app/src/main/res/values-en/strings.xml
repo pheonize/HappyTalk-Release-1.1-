@@ -1,0 +1,64 @@
+<resources>
+
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">HappyTalk</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="about">About </string>
+    <string name="title_activity_splash">Splash</string>
+    <string name="listview1">ListView</string>
+
+    <string name="th">Thai</string>
+    <string name="en">English (United State)</string>
+
+    <string name="imageView1">image</string>
+    <string name="action_search">Search</string>
+    <string name="search_hint">search_hint</string>
+
+    <string name="language">Language</string>
+    <string name="abb">abbbb</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="conversation">Basic Conversation</string>
+    <string name="thing">I would like to...</string>
+    <string name="place">Where is the...  </string>
+    <string name="help">Assistance/Emergency</string>
+    <string name="logistic">Logistics </string>
+    <string name="favorite">Favorite</string>
+    <string name="aboutTH">About Thai Health</string>
+    <string name="aboutSSS">About Thai Health</string>
+    <string name="about_sss1">
+        Thai Health Promotion Foundation (Thai Health) </string>
+    <string name="about_sss2">
+        is an independent state agency set up according to the Health Promotion Act 2001 and has Governing Board chaired by the Prime Minister with half of its members from independent social organizations.
+    </string>
+    <string name="about_sss3">
+         We work with wide range of multi-sectoral partners which aim to promote well-being in 4 dimensions: Physical, Mental, Spiritual and Social.
+
+    </string>
+    <string name="about_sss4">
+        Our mission is To promote initiative, enthusiasm, coordination and mobilization among individuals as well as various organizations in all sectors so that they have capability to form a society conducive to good health.
+    </string>
+
+    <string name="about1">
+        Thai Federation on Logistics has been operate the Happy Workplace scheme which supported by Thai Health Promotion Foundation under a project
+
+        </string>
+    <string name="about2">
+       name “New dimensional of happy workplace to increase wellbeing for land logistics staffs”.
+
+    </string>
+    <string name="about3">
+         As a result, we create an ASEAN language translation application for logistics industry which consist of 10 ASEAN Languages plus Chinese.
+
+    </string>
+    <string name="about4">
+         This application will be useful for logistics’ staffs and entrepreneurs who need to develop working skills and abilities.
+
+    </string>
+    <string name="about5">
+          In order to, be more efficiency and prepared for the opening of ASEAN Economic Community (AEC).
+    </string>
+
+</resources>

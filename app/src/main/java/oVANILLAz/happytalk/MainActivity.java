@@ -94,7 +94,7 @@ public class MainActivity extends Activity {
     private Typeface thSarabun;
 
 
-    ImageView happy,sss,logis;
+    ImageView happy,sss,logis,mol;
 
     View view;
 
@@ -153,6 +153,18 @@ public class MainActivity extends Activity {
                 intent.setAction(Intent.ACTION_VIEW);
                 intent.addCategory(Intent.CATEGORY_BROWSABLE);
                 intent.setData(Uri.parse("http://www.thailog.org"));
+                startActivity(intent);
+            }
+        });
+
+        mol = (ImageView) findViewById(R.id.mol);
+        mol.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent();
+                intent.setAction(Intent.ACTION_VIEW);
+                intent.addCategory(Intent.CATEGORY_BROWSABLE);
+                intent.setData(Uri.parse("http://www.mol.go.th"));
                 startActivity(intent);
             }
         });

@@ -85,11 +85,11 @@
 
         android:layout_alignParentBottom="true" >
         <ImageView
-            android:layout_width="wrap_content"
+            android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:id="@+id/sososo"
             android:background="@drawable/sss"
-            android:layout_marginRight="10dp"
+            android:layout_marginRight="5dp"
             android:layout_marginTop="5dp"
             android:tag="http://www.thaihealth.or.th"
             />
@@ -98,8 +98,19 @@
             android:layout_height="wrap_content"
             android:id="@+id/happytalk"
             android:background="@drawable/happytalk"
+            android:layout_marginRight="5dp"
             android:clickable="true"
             android:tag="http://www.thaihealth.or.th"
+
+            />
+        <ImageView
+            android:layout_width="75dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/mol"
+            android:background="@drawable/logo_mol"
+            android:layout_marginRight="5dp"
+            android:clickable="true"
+            android:tag="http://www.mol.go.th/"
 
             />
         <ImageView
@@ -108,7 +119,7 @@
             android:id="@+id/logistic"
             android:background="@drawable/logis"
             android:layout_marginTop="10dp"
-            android:layout_marginLeft="20dp"
+            android:layout_marginLeft="10dp"
             android:clickable="true"/>
 
         </LinearLayout>
